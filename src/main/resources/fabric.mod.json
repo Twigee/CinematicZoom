@@ -8,8 +8,9 @@
 		"Mel1x"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://modrinth.com/mod/cinematic-zoom-(fabric)",
+		"sources": "https://github.com/mel1x/CinematicZoom",
+		"issues": "https://github.com/mel1x/CinematicZoom/issues"
 	},
 	"license": "MIT",
 	"icon": "assets/cinematiczoom/icon.png",
