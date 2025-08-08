@@ -2,7 +2,7 @@
 
 Smooth, cinematic zoom for Minecraft with animated black bars, per-frame easing, and optional mouse wheel control. Built for **Fabric 1.21.7**.
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmdlcHBpYTg5ZHZkYXVoeTA5ZjZwZzhxeDNmdzA0M3htbXdldnRreiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Kj3BZlKVJ9JvqgdKEF/giphy.gif">
+<img src="https://raw.githubusercontent.com/mel1x/CinematicZoom/refs/heads/main/CinematicZoom.gif">
 
 ---
 
