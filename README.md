@@ -53,3 +53,18 @@ If **Mod Menu** + **Cloth Config** are installed:
 
 ### Config file
 Edit (or delete to regenerate defaults):
+
+---
+
+## Credits & Attribution
+
+- **Original author & idea credit:** [KubePixel](https://www.curseforge.com/members/kubepixel/projects)  
+  Their Forge mod for 1.20.1: **Cinematic Zoom** — <https://www.curseforge.com/minecraft/mc-mods/cinematic-zoom>
+
+- **Fabric implementation (this mod):** mix
+
+> This project is an independent Fabric implementation inspired by the original concept. Not affiliated with or endorsed by KubePixel.
+
+---
+
+*Original concept and name credit to **KubePixel**. If you’re on Forge 1.20.1, check out their original mod here: <https://www.curseforge.com/minecraft/mc-mods/cinematic-zoom>.*
