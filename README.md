@@ -1,4 +1,4 @@
-# CinematicZoom (Fabric 1.21.7)
+# CinematicZoom (Fabric 1.21.5)
 
 Smooth, cinematic zoom for Minecraft with animated black bars, per-frame easing, and optional mouse wheel control. Built for **Fabric 1.21.7**.
 
